@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artur</h1>
+<h1 align="center" style="color: skyblue;">Hi 👋, I'm Artur</h1>
 <h3 align="center">Student of Creator IT Academy</h3>
 
 - 🌱 I’m currently learning **PWA,Postgresql, GraphQL**
