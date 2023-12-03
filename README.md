@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
 <h3 align="center">Student of Creator IT Academy</h3>
-<img src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif">
+<img align="center" src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif">
 - 🌱 I’m currently learning **PWA,Postgresql, GraphQL**
 
 - 📫 How to reach me **arturlisovic@gmail.com**
