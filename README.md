@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/WCf8OoN4BZAAAAAd/vinland-saga.gif" alt="Vinland Saga GIF">
 </p>
 <hr>
-- 🌱 I’m currently learning **Vue, Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **arturlisovic@gmail.com**
 
