@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img height="450" src="https://giffiles.alphacoders.com/218/218631.gif"  />
+  <img src="https://giffiles.alphacoders.com/218/218631.gif"  />
 </div>
 
 ###
