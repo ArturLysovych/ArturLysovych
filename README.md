@@ -112,6 +112,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arturlysovych/arturlysovych/output/snake.svg" alt="Snake animation" />
-
-###
