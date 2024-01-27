@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java.<br>🎯 Goals: Senior web-dev.</p>
+<h4 align="left">📚 I'm currently learning Java.<br>🎯 Goals: Senior web-dev.</h4>
 
 ###
 
